@@ -6,6 +6,16 @@
 
 Use the free package of universal robot [UR5](https://github.com/ros-industrial/universal_robot) to install universal robot.
 
+```bash
+cd $HOME/catkin_ws/src
+
+git clone https://github.com/mfouad992/Neura_universalRobot.git
+
+cd $HOME/catkin_ws
+
+# building
+catkin_make
+```
 
 ## Usage
 
