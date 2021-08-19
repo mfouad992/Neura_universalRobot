@@ -35,4 +35,4 @@ rosrun ur5-tcp-position-control  tcp_position_controller
 cd $HOME/catkin_ws/src
 ./launch.sh
 ```
-It is recommended to stop and play the simulation of the pavilion after both files have been started. 
+It is recommended to click on pause and play on Gazebo after both files have been started. 
