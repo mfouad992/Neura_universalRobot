@@ -29,7 +29,7 @@ roslaunch ur5-tcp-position-control ur5_gazebo_joint_position_control.launch
 rosrun ur5-tcp-position-control  tcp_position_controller
 
 ```
-## alternative through .sh file 
+## Usage through .sh file 
 
 ```bash
 cd $HOME/catkin_ws/src
