@@ -8,9 +8,7 @@ Use the free package of universal robot [UR5](https://github.com/ros-industrial/
 
 ```bash
 cd $HOME/catkin_ws/src
-
 git clone https://github.com/mfouad992/Neura_universalRobot.git
-
 cd $HOME/catkin_ws
 
 # building
